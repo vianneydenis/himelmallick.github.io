@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biostatistics | Hello, World!</title>
+    <link>http://himelmallick.github.io/tags/biostatistics/</link>
+      <atom:link href="http://himelmallick.github.io/tags/biostatistics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Biostatistics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Aug 2020 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>http://himelmallick.github.io/img/icon-192.png</url>
+      <title>Biostatistics</title>
+      <link>http://himelmallick.github.io/tags/biostatistics/</link>
+    </image>
+    
+    <item>
+      <title>Early-career setback - A throwback to my first paper</title>
+      <link>http://himelmallick.github.io/post/early_career_setback/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 -0400</pubDate>
+      <guid>http://himelmallick.github.io/post/early_career_setback/</guid>
+      <description>&lt;p&gt;This 15th August marked 7 years since I submitted my &lt;a href=&#34;https://www.intlpress.com/site/pub/pages/journals/items/sii/content/vols/0007/0004/a012/&#34; target=&#34;_blank&#34;&gt;first paper&lt;/a&gt; (first-authored research article). Coincidentally, it also completed five calendar years last December, which gave me a chance to measure it&amp;rsquo;s &lt;a href=&#34;https://support.clarivate.com/ScientificandAcademicResearch/s/article/Journal-Citation-Reports-5-Year-Impact-Factors?language=en_US&#34; target=&#34;_blank&#34;&gt;5-year impact&lt;/a&gt; (erring on the conservative side of course).&lt;/p&gt;
+
+&lt;p&gt;I am very happy to see that it has been well-received as shown in the figure above (the R code to generate the plot is &lt;a href=&#34;https://github.com/himelmallick/himelmallick.github.io/tree/master/post/early_career_setback&#34; target=&#34;_blank&#34;&gt;publicly available&lt;/a&gt;). To interpret it more accurately in plain English, it has performed significantly better than an average paper in the same journal or same discipline (Statistics).&lt;/p&gt;
+
+&lt;p&gt;Yet, the journey to get this work published was a bit bumpy, which happened to be an instance of early-career setback (broadly defined), an almost-unheard-of phenomenon until recently.&lt;/p&gt;
+
+&lt;p&gt;Here is the overall roadmap of the paper (inspired by a &lt;a href=&#34;https://simplystatistics.tumblr.com/post/26977029850/my-worst-recent-experience-with-peer-review&#34; target=&#34;_blank&#34;&gt;similar post&lt;/a&gt; in a different context): &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://projecteuclid.org/euclid.ba&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Bayesian Analysis&lt;/strong&gt;&lt;/a&gt;: Submitted  08/30/2012, rejected 09/16/2012.  Not much to say here, except that I am grateful for the rapid decision that helped me move on to the next journal.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.journals.elsevier.com/computational-statistics-and-data-analysis&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Computational Statistics and Data Analysis&lt;/strong&gt;&lt;/a&gt;: Submitted  09/20/2012, rejected 04/30/2013. This substantial delay was mentally agonizing.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.jmlr.org/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Journal of Machine Learning Research&lt;/strong&gt;&lt;/a&gt;: Submitted 04/30/2013, rejected 08/15/2013 with some constructive and legitimate reviews that led to a substantive improvement of the manuscript later on.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.intlpress.com/site/pub/pages/journals/items/sii/_home/_main/index.php&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Statistics and Its Interface&lt;/strong&gt;&lt;/a&gt;: Submitted 08/15/2013, first review 12/09/2013, resubmitted 05/20/2014 (got delayed by a few other dissertation projects), second revision requested 06/27/2014, revised version submitted 06/30/2014, accepted 06/30/2014, published in final edited form 12/23/2014 (as snapshotted below). &lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;Image_1.png&#34; alt=&#34;image info&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As a graduate student, it was very hard not to take unreasonable reviews personally, especially in the absence of &lt;a href=&#34;https://www.pnas.org/content/114/48/12708&#34; target=&#34;_blank&#34;&gt;big names and prior experience in the author list&lt;/a&gt;, possibly more so as it felt like a never-ending process - both figuratively and literally!&lt;/p&gt;
+
+&lt;p&gt;As an aside, I used a rather generous denominator of 4.2 while calculating the &lt;a href=&#34;http://help.prod-incites.com/inCites2Live/indicatorsGroup/aboutHandbook/usingCitationIndicatorsWisely/normalizedCitationImpact.html&#34; target=&#34;_blank&#34;&gt;FWCI&lt;/a&gt; (excluding self-citations), &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S2405844016322800&#34; target=&#34;_blank&#34;&gt;which is only based on a handful of top journals in the field&lt;/a&gt;. Even going by the current impact factor of the &lt;a href=&#34;https://www.intlpress.com/site/pub/pages/journals/items/sii/_home/_main/index.php&#34; target=&#34;_blank&#34;&gt;publishing journal&lt;/a&gt; (~0.5), this is a gross overestimate.&lt;/p&gt;
+
+&lt;p&gt;Regardless, I could not be more appreciative of how it has turned out despite appearing in a relatively low-impact journal in challenging circumstances. In hindsight, this early-career setback prepared me well for my future endeavors, consistent with the aphorism that &lt;a href=&#34;https://www.nature.com/articles/s41467-019-12189-3&#34; target=&#34;_blank&#34;&gt;“what doesn’t kill you makes you stronger”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;OK - that was my story. What is your early-career setback story?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
