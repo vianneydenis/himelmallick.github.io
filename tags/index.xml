@@ -5,7 +5,7 @@
     <link>http://himelmallick.github.io/tags/</link>
       <atom:link href="http://himelmallick.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Aug 2020 00:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Sep 2020 00:00:00 -0400</lastBuildDate>
     <image>
       <url>http://himelmallick.github.io/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,18 +13,34 @@
     </image>
     
     <item>
-      <title>Biostatistics</title>
-      <link>http://himelmallick.github.io/tags/biostatistics/</link>
-      <pubDate>Thu, 20 Aug 2020 00:00:00 -0400</pubDate>
-      <guid>http://himelmallick.github.io/tags/biostatistics/</guid>
+      <title>Academics</title>
+      <link>http://himelmallick.github.io/tags/academics/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 -0400</pubDate>
+      <guid>http://himelmallick.github.io/tags/academics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Career</title>
       <link>http://himelmallick.github.io/tags/career/</link>
-      <pubDate>Thu, 20 Aug 2020 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 -0400</pubDate>
       <guid>http://himelmallick.github.io/tags/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://himelmallick.github.io/tags/research/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 -0400</pubDate>
+      <guid>http://himelmallick.github.io/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biostatistics</title>
+      <link>http://himelmallick.github.io/tags/biostatistics/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 -0400</pubDate>
+      <guid>http://himelmallick.github.io/tags/biostatistics/</guid>
       <description></description>
     </item>
     
@@ -41,14 +57,6 @@
       <link>http://himelmallick.github.io/tags/peer-review/</link>
       <pubDate>Thu, 20 Aug 2020 00:00:00 -0400</pubDate>
       <guid>http://himelmallick.github.io/tags/peer-review/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>http://himelmallick.github.io/tags/research/</link>
-      <pubDate>Thu, 20 Aug 2020 00:00:00 -0400</pubDate>
-      <guid>http://himelmallick.github.io/tags/research/</guid>
       <description></description>
     </item>
     
